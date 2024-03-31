@@ -1,0 +1,19 @@
+<!-- ChatGPT Prompt um Fragen und Antworten zu erstellen. -->
+
+Erstelle 5 Fragen mit jeweils 3 Antworten wobei nur 1 Antwort richtig ist zum folgendem Thema:
+
+In Deutschland vorkommende Baumarten und wann diese ihre Blätter verlieren.
+
+Ich möchte, dass Du die Fragen, Antworten und richtige Antwort in dieses json Format konvertierst:
+
+Beispiel:
+ 
+{ "frage": "Frage",
+  "antworten": ["Antwort 1", "Antwort 2", "Antwort 3"],
+  "richtigeAntwort": "Richtige Antwort"},
+{"frage": "Frage",
+ "antworten": ["Antwort 1", "Antwort 2", "Antwort 3"],
+  "richtigeAntwort": "Richtige Antwort"},
+
+
+Ich möchte, dass Du mir den json Code als fragen_und_antworten.json Datei zum download anbietest.

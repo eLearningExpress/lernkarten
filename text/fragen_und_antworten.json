@@ -1,0 +1,47 @@
+[
+  {
+    "frage": "Welcher Baum verliert als einer der ersten seine Blätter im Herbst?",
+    "antworten": [
+      "Buche",
+      "Esche",
+      "Eiche"
+    ],
+    "richtigeAntwort": "Esche"
+  },
+  {
+    "frage": "Welcher Baum behält oft seine vertrockneten Blätter bis ins Frühjahr?",
+    "antworten": [
+      "Eiche",
+      "Birke",
+      "Ahorn"
+    ],
+    "richtigeAntwort": "Eiche"
+  },
+  {
+    "frage": "Welcher Baum verliert seine Blätter typischerweise im November?",
+    "antworten": [
+      "Linde",
+      "Kastanie",
+      "Birke"
+    ],
+    "richtigeAntwort": "Birke"
+  },
+  {
+    "frage": "Welche Baumart ist für ihre späte Blattaustreibung und frühen Blattfall bekannt?",
+    "antworten": [
+      "Ulme",
+      "Buche",
+      "Walnuss"
+    ],
+    "richtigeAntwort": "Walnuss"
+  },
+  {
+    "frage": "Welcher Baum kann seine Blätter bis in den Winter hinein behalten?",
+    "antworten": [
+      "Fichte",
+      "Eiche",
+      "Tanne"
+    ],
+    "richtigeAntwort": "Eiche"
+  }
+]
